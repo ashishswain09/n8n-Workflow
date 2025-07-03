@@ -1,5 +1,8 @@
-# n8n-Workflow
 # n8n-Workflow: Smart Job Search: Resume Scoring & Tailoring with OpenAI, Apify, and Airtable
+
+![Screenshot 2025-06-21 at 18 58 33](https://github.com/user-attachments/assets/4eaf9ebc-480c-46c1-ade6-a4329d464787)
+
+**[Smart Job Search](https://n8n.io/workflows/3724-smart-job-search-resume-scoring-and-tailoring-with-openai-apify-and-airtable/)**  
 
 ## Who is this for?
 
